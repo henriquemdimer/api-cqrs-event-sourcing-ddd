@@ -1,5 +1,5 @@
 {
-  "name": "api-ddd",
+  "name": "api-dd",
   "module": "src/main.ts",
   "type": "module",
   "scripts": {
